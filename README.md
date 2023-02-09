@@ -19,7 +19,7 @@ Course Topics:
 ●  Probabilistic graphical models
 ●  Random graphs
 
-Technologies adopted: `NetworkX`, 'Scikit-learn'
+Technologies adopted: `NetworkX`, `Scikit-learn`
 
 ### Homeworks
 |HW1| Capacity analysis and traffic managment on a roads
