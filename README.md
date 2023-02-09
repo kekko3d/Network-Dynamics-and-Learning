@@ -23,7 +23,9 @@ Technologies adopted: `NetworkX`, 'Scikit-learn'
 
 ### Homeworks
 |HW1| Capacity analysis and traffic managment on a roads
+
 |HW2| Particles flows simulation using Markov Chains
+
 |HW3| Covid-19 pandemic simulation in sweden (SIR model) and game theory ditribute optimization applied on coloring games
 
 
